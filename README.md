@@ -5,4 +5,4 @@
 使用Python处理CSV文件
 
 ##### Part two
-测试使用PySocks库的使用
+测试PySocks库
